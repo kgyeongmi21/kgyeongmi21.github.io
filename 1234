@@ -11,19 +11,12 @@ canonical: https://kgyeongmi21.github.io
 ---
 {% include JB/setup %}
 
-
-<!-- ****************** Modal subcribe box sample ************************
-<div id="demosMenu">
-	<div class="content__container">
-	<p class="content__container__text heavy"><a id="trigger-overlay" style="color:white" href="#">
-		Know <span class="pink">me</span></a>
-	</p>
-</div>
-</div>-->
 <div id="socialMenu">
 	{% include social-block.html %}
 </div>
 
 <div id="fullpage">
   <div data-anchor="0section" class="section" id="section0">
+  Hi I am Gyeongmi
   </div>
+</div>
